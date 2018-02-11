@@ -1,0 +1,48 @@
+body {
+	background: url(../imgs/earth.jpg);
+}
+h1 {
+	color: yellow;
+
+}
+
+h4 {
+	color: white;
+}
+h5 {
+	color: red;
+}
+
+
+.chill {
+	width: 10%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thatcher {
+	width: 10%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.banjo {
+	width: 10%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.curtin {
+	width: 10%;
+	height: auto;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
